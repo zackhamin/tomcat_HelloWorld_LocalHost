@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb139122-4009-44fe-b3bb-b5001bb376fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fabYSayF3mgr6MqsBH2h5g8Xvy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mywebapp [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb139122-4009-44fe-b3bb-b5001bb376fb" name="Default Changelist" comment="" />
+      <created>1596459197460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596459197460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596460028543">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="389" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/-71.-1057.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1596460028543" />
+    <state width="1738" height="279" key="GridCell.Tab.0.bottom" timestamp="1596460345440">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1738" height="279" key="GridCell.Tab.0.bottom/-71.-1057.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1596460345440" />
+    <state width="1738" height="279" key="GridCell.Tab.0.center" timestamp="1596460345440">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1738" height="279" key="GridCell.Tab.0.center/-71.-1057.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1596460345440" />
+    <state width="1738" height="279" key="GridCell.Tab.0.left" timestamp="1596460345439">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1738" height="279" key="GridCell.Tab.0.left/-71.-1057.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1596460345439" />
+    <state width="1738" height="279" key="GridCell.Tab.0.right" timestamp="1596460345440">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="1738" height="279" key="GridCell.Tab.0.right/-71.-1057.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1596460345440" />
+  </component>
+</project>
